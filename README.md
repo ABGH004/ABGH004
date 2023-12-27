@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Alireza Bagheri
+# 🤖 ABGH004
 **`Back-End Developer`**
 
 - I'm currently studying Computer Engineering in Kharazmi University❤️.
@@ -59,19 +57,3 @@ ___
   After attending to university I started to learn C++/Qt and a little bit of java/swing for my university courses and learned basics of linux, vim, git and github by myself.
   I'm currently learning MySQL along with Django framework. I want to become a Back-End Developer but I'm also passionate to learn AI and machine learning.
 </details>
-
-
-<!--
-**ABGH004/ABGH004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
