@@ -38,12 +38,13 @@ ___
 
 #
 
-### 📊 Stats
+## 📊 Stats
 
 ![ABGH004's GitHub stats](https://github-readme-stats.vercel.app/api?username=ABGH004&show_icons=true&theme=transparent)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ABGH004&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 #
 
+### 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ABGH004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 #
