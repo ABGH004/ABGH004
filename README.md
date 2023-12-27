@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# Alireza Bagheri
+**`Back-End Developer`**
+
+I'm currently studying as a computer engineer in Kharazmi University.
+I'm a Python/C++ developer and I'm currently learning Django and MySQL. I'm familiar with HTML5/CSS3 and I'm recently working on becoming a Back-End Developer.
 <!--
 **ABGH004/ABGH004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
