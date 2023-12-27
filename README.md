@@ -5,6 +5,7 @@
 
 - I'm currently studying Computer Engineering in Kharazmi University❤️.
 - I'm a Python🐍/C++ developer and I'm currently learning Django and MySQL🐬.
+- I have basic understanding of java and its swing framework and have worked with Qt framework on C++.
 - I'm familiar with HTML5/CSS3 and I've been working on linux🐧 recently.
 - I'm recently working on becoming a Back-End Developer💪.
 
@@ -47,10 +48,10 @@ ___
   <summary><h3>More About Me👨</h3></summary>
   When I was 14 years old I started learning C# for a short period of time. 
   I was influenced by game industry and wanted to become a game developer.
-  but then I changed my direction and started learning python. 
-  In early years of entering this new digital world I had a really slow pace of learning and it was just in a trial-and-error manner.
+  But then I changed my direction and started learning Python. 
+  In early years of entering this new digital world I had a really slow pace of learning and I was just experimenting different things to find my true interests.
   I learned basics in turtle and pygame frameworks. Then I started learning HTML/CSS.
-  after attending to university I started to learn C++ for my subjects and learned basics of linux, vim, git and github by myself.
+  After attending to university I started to learn C++/Qt and a little bit of java/swing for my university courses and learned basics of linux, vim, git and github by myself.
   I'm currently learning MySQL along with Django framework. I want to become a Back-End Developer but I'm also passionate to learn AI and machine learning.
 </details>
 
