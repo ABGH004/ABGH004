@@ -3,7 +3,7 @@
 # Alireza Bagheri
 **`Back-End Developer`**
 
-- I'm currently studying as a computer engineer in Kharazmi University❤️.
+- I'm currently studying Computer Engineering in Kharazmi University❤️.
 - I'm a Python🐍/C++ developer and I'm currently learning Django and MySQL🐬.
 - I'm familiar with HTML5/CSS3 and I've been working on linux🐧 recently.
 - I'm recently working on becoming a Back-End Developer💪.
