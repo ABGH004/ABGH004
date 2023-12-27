@@ -44,6 +44,10 @@ ___
 
 #
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ABGH004&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+#
+
 <details>
   <summary><h3>More About Me👨</h3></summary>
   When I was 14 years old I started learning C# for a short period of time. 
