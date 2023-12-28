@@ -4,7 +4,7 @@
 - I'm currently studying Computer Engineering in Kharazmi University❤️.
 - I'm a Python🐍/C++ developer and I'm currently learning Django and MySQL🐬.
 - I have basic understanding of java and its swing framework and have worked with Qt framework on C++.
-- I'm familiar with HTML5/CSS3 and I've been working on linux🐧 recently.
+- I'm familiar with HTML5/CSS3 and I've been working on GNU/Linux🐧 recently.
 - I'm recently working on becoming a Back-End Developer💪.
 
 <p align="center">
