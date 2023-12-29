@@ -48,7 +48,7 @@ ___
 #
 
 <details>
-  <summary><h3>More About Me👨</h3></summary>
+  <summary><h2>More About Me👨</h2></summary>
   When I was 14 years old I started learning C# for a short period of time. 
   I was influenced by game industry and wanted to become a game developer.
   But then I changed my direction and started learning Python. 
