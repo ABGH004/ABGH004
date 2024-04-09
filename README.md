@@ -8,7 +8,7 @@
 - I'm recently working on becoming a Back-End Developer💪.
 
 <p align="center">
-  <a href="www.linkedin.com/in/alireza-bagheri004/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  <a href="https://www.linkedin.com/in/alireza-bagheri004/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
 </p>
 
 <p align="center">
